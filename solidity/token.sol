@@ -2,7 +2,7 @@
 pragma solidity ^0.8.2;
 import "@openzeppelin/contracts@4.4.1/token/ERC20/ERC20.sol";
 
-contract Fujihalab_token is ERC20{
+contract TuushinFuzihara_token is ERC20{
 
     address payable owner;
     
@@ -39,7 +39,7 @@ contract Fujihalab_token is ERC20{
 
     }
 
-    constructor () ERC20("Fujihalab Token", "FLT") {
+    constructor () ERC20("TuushinFuzihara Token", "TFT") {
         owner = payable(msg.sender);
     
         _mint(address(this), 1000000*10**decimals());

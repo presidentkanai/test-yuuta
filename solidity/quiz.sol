@@ -4,7 +4,7 @@ pragma solidity ^0.8.2;
 import "./class_room.sol";
 
 contract Quiz_Dapp is class_room {
-    address Token_address = 0x4147aE2cEC45cFb2B9a9A3aE320C855DD767C2f8;
+    address Token_address = 0x021e416bb6bfA1e76Aa4E280828b1d55F2d5f2F0;
     TokenInterface token = TokenInterface(Token_address);
     uint[] users_result;
 
