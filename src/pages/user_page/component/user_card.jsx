@@ -76,7 +76,7 @@ function User_card(props) {
                     <div className="row" style={{ marginTop: "20px" }}>
                         <div className="col token d-flex flex-column">
                             <div>保有トークン</div>
-                            <div>{props.token}FLT</div>
+                            <div>{props.token}TFT</div>
                         </div>
                         <div className="col token-result d-flex flex-column">
                             <div>現在の順位</div>
@@ -84,7 +84,7 @@ function User_card(props) {
                         </div>
                         <div className="col token-result d-flex flex-column">
                             <div>獲得点数</div>
-                            <div>{Number(props.result)/20}点</div>
+                            <div>{Number(props.result)/30}点</div>
                         </div>
                     </div>
                 </div>
