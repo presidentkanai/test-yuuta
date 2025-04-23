@@ -132,7 +132,7 @@ function Simple_quiz(props) {
                                     <div className="col-3">
                                         <div className="col">報酬</div>
                                         <div className="col" style={{ textAlign: "center" }}>
-                                            {Number(props.quiz[10]) / (10 ** 18)}FLT
+                                            {Number(props.quiz[10]) / (10 ** 18)}TFT
                                         </div>
                                     </div>
                                     <div className="col-3">
