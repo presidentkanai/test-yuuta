@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/test1/static/css/main.58f804ae.css",
-    "main.js": "/test1/static/js/main.56991734.js",
-    "static/js/858.48157205.chunk.js": "/test1/static/js/858.48157205.chunk.js",
-    "static/js/787.af04e08f.chunk.js": "/test1/static/js/787.af04e08f.chunk.js",
-    "static/media/metamask-icon.svg": "/test1/static/media/metamask-icon.b3649ecfe8c45f27ceb9f99d70f3d24e.svg",
-    "static/media/logo.svg": "/test1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/blocto-icon.svg": "/test1/static/media/blocto-icon.ff8c029ba3c3588f8924488fe25239d5.svg",
-    "index.html": "/test1/index.html",
-    "main.58f804ae.css.map": "/test1/static/css/main.58f804ae.css.map",
-    "main.56991734.js.map": "/test1/static/js/main.56991734.js.map",
-    "858.48157205.chunk.js.map": "/test1/static/js/858.48157205.chunk.js.map",
-    "787.af04e08f.chunk.js.map": "/test1/static/js/787.af04e08f.chunk.js.map"
+    "main.css": "/test-yuuta/static/css/main.58f804ae.css",
+    "main.js": "/test-yuuta/static/js/main.6406e895.js",
+    "static/js/858.0cd47a66.chunk.js": "/test-yuuta/static/js/858.0cd47a66.chunk.js",
+    "static/js/787.1c991c0d.chunk.js": "/test-yuuta/static/js/787.1c991c0d.chunk.js",
+    "static/media/metamask-icon.svg": "/test-yuuta/static/media/metamask-icon.b3649ecfe8c45f27ceb9f99d70f3d24e.svg",
+    "static/media/logo.svg": "/test-yuuta/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/blocto-icon.svg": "/test-yuuta/static/media/blocto-icon.ff8c029ba3c3588f8924488fe25239d5.svg",
+    "index.html": "/test-yuuta/index.html",
+    "main.58f804ae.css.map": "/test-yuuta/static/css/main.58f804ae.css.map",
+    "main.6406e895.js.map": "/test-yuuta/static/js/main.6406e895.js.map",
+    "858.0cd47a66.chunk.js.map": "/test-yuuta/static/js/858.0cd47a66.chunk.js.map",
+    "787.1c991c0d.chunk.js.map": "/test-yuuta/static/js/787.1c991c0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58f804ae.css",
-    "static/js/main.56991734.js"
+    "static/js/main.6406e895.js"
   ]
 }
